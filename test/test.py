@@ -8,6 +8,16 @@ def lalit():
         print(lucky)
         print(type(lucky))
 
+def main():
+    print("hello Univers")
+    programming_languages = "Python", "Java", "C++", "C#"
+    print(programming_languages)
+    print(type(programming_languages))
+    for language in programming_languages:
+        print(language)
+        print(type(language))
+
 print("Hello World")
-lalit()
+main()
 # lalit()
+
