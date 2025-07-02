@@ -9,13 +9,14 @@ def game_board():
         print(count,row)
     return 100
 
-print(game_board)
-print(game_board())
+print('Hello World','Hello Universe')
+print('this is game_board',game_board)
+print('(this gameboard)',game_board())
 print(None)
 print(type(game_board))
-print(type(game_board()))
-print(type(100))
-print(int)
+print('this is a',type(game_board()))
+print('this is b',type(100))
+print('this is c',int)
 # x=game_board
 # y=x
 # game_board()

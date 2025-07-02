@@ -19,5 +19,15 @@ def main():
 
 print("Hello World")
 main()
+# come()
+# f(x) = g
+# g(x) = k
+# k(x) = 5
+# f(9)(10)(11)
+# g(10)(11)
+# k(11) 
+# 5
+# if you == come(out)(of)(there,I,would,teach,you,a,lesson):
+    # print("Hello World")
 # lalit()
 
